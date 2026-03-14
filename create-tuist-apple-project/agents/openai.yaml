@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Tuist Apple Project"
+  short_description: "Create new Apple app projects with Tuist"
+  default_prompt: "Use $create-tuist-apple-project to scaffold a new Apple platform project with Tuist."
